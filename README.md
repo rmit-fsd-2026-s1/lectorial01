@@ -18,7 +18,7 @@ git branch -M main
 git push -u origin main  
 
 
-#to unlink the original origin
+#to unlink the current remote repo
 git remote remove origin
 
 #to link with the next origin, e.g. GitHub classroom
