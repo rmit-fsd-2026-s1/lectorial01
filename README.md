@@ -31,3 +31,5 @@ git pull origin main --allow-unrelated-histories
 git add README.md
 git commit -m "practice with git"
 git push --set-upstream origin main
+
+Please refer to GitHub documentation or seek tutor assistance.
